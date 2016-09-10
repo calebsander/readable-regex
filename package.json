@@ -1,0 +1,26 @@
+{
+  "name": "readable-regex",
+  "version": "1.0.0",
+  "description": "A library for dynamically generating regular expressions in a readable fashion",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebsander/readable-regex.git"
+  },
+  "keywords": [
+    "regular",
+    "expression",
+    "regex",
+    "dynamic",
+    "readable",
+    "regexp"
+  ],
+  "author": "Caleb Sander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebsander/readable-regex/issues"
+  }
+}
