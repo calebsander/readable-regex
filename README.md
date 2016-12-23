@@ -10,7 +10,7 @@ The idea of this library is to make it easier to read the components that go int
 
 ## Example
 ````javascript
-const reg = require(__dirname + '/../index.js')
+const reg = require('readable-regex')
 const SOME_DIGITS = reg.some(reg.DIGIT)
 const DATE_CAPTURE = reg([
 	reg.START,
